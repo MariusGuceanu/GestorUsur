@@ -196,7 +196,7 @@ public class GestorUsuariosApp {
 		System.out.println(DELETE + "- ezabatu");
 		System.out.println(SALIR + "- irten");
 
-		//aaaaaaaaaaaa
+		//aaaaaaaaaaaaaaaaaaaaa
 	}
 	
 	private void agurra() {
